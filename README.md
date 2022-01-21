@@ -1,4 +1,4 @@
-# Raspberry
+# central heating control with NTC-Thermistor and ADS1015
 ## Hardware
 ### OLED display of NTC temperature through ADS1x15 converter
 ### Adafruit 128x64 OLED Bonnet for Raspberry Pi, PRODUCT ID: 3531 
