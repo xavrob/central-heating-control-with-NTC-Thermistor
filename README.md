@@ -12,15 +12,8 @@ not yet
 (https://www.youtube.com/watch?v=My1BDB1ei0E)
 ## Software
 ### Python
-CV-regeling.py
- E:\Raspberry Pi\Temp\CV-regeling.xlsx
- -5°C = 40Kohm
- 0°C  = 32Kohm
- 10°C = 20Kohm
- 19°C = 13Kohm
- 25°C = 10Kohm
- 43°C = 4,7Kohm
-
+##### CV-regeling.py
+##### E:\Raspberry Pi\Temp\CV-regeling.xlsx -5°C =  0
  vanaf 3,5 minuut gaat de CV over naar "hoog vermogen / laag rendement" van "3" naar "5"
  de CV slaat normaal ongeveer 3 x langer aan dan de tijd van de puls
  de CV verbruikt dan ongeveer 60 liter gas per minuut puls, of 20 liter gas per minuut "branden"
